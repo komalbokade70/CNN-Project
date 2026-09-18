@@ -20,8 +20,8 @@ A custom CNN with three convolutional blocks followed by a dense classification 
 ## Result
 | Metric | Value |
 |--------|-------|
-| Test Accuracy | 89.0% |
-| Test Loss | 0.334 |
+| Test Accuracy | 89.56% |
+| Test Loss | 0.3114 |
 
 Training and validation accuracy tracked closely through most of training with mild overfitting appearing in later epochs (train accuracy continuing to climb past ~92% while validation plateaus around 88–89%) — expected for a model this size on this dataset without heavier augmentation.
 
