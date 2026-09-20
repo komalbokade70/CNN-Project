@@ -1,0 +1,7 @@
+kaggle.json
+*.keras
+*.h5
+_pycache_/
+.ipynb_checkpoints/
+PetImages/
+*.zip
