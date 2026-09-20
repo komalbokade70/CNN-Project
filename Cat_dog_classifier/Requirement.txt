@@ -1,0 +1,8 @@
+tensorflow
+scikit-learn
+seaborn
+pillow
+numpy
+matplotlib
+kaggle
+opencv-python
